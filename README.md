@@ -1,5 +1,8 @@
 # Python Mastery: From Basics to Advanced
+
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
+
 This project contains four sessions that explain the Python programming language from the basics to the advanced level. Each session includes concepts and practical examples to help you fully master the language.
 
 ## Sessions
