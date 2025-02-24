@@ -1,5 +1,5 @@
 # Python Mastery: From Basics to Advanced
-
+![Image](https://github.com/user-attachments/assets/ef0eae03-c86e-4c49-8ada-74064c231662)
 This project contains four sessions that explain the Python programming language from the basics to the advanced level. Each session includes concepts and practical examples to help you fully master the language.
 
 ## Sessions
