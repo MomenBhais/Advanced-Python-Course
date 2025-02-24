@@ -10,9 +10,9 @@ Thank you for your interest in contributing to this project! Here’s a quick gu
 2. **Clone the Project to Your Local Machine**:
    - Use the following command to clone the project:
      ```bash
-     git clone https://github.com/MomenBhais/Python-Mastery.git
+     git clone git@github.com:MomenBhais/Python.git
      ```
-   - Replace `MomenBhais` with your GitHub username.
+   
 
 3. **Create a New Branch**:
    - Navigate to the cloned folder:
